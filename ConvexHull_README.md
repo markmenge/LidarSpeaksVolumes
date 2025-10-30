@@ -69,6 +69,10 @@ python pointcloud_viewer.py
 
 ---
 
+**Screen Shot**
+![Bucket Diagram](pointcloud_viewer_snapshot.png)
+
+
 ## Technical Notes
 
 ### ConvexHull Algorithm
